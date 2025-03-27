@@ -2,10 +2,14 @@
 
 Danantara Indonesia adalah badan pengelola investasi strategis yang mengoptimalkan investasi pemerintah untuk pertumbuhan ekonomi nasional. Proyek ini merupakan redesign dari website Danantara dengan tampilan modern, elegan, dan responsif.
 
+---
+
 ## 🎯 Maksud & Tujuan
 - Meningkatkan user experience dengan desain yang lebih modern dan interaktif.
 - Menyajikan informasi dengan tampilan yang lebih jelas dan menarik.
 - Memastikan aksesibilitas dan responsivitas di berbagai perangkat.
+
+---
 
 ## 📂 Struktur Proyek
 Proyek ini menggunakan **Vite (JavaScript)** dengan format file **JSX**. Struktur folder utamanya adalah sebagai berikut:
@@ -24,6 +28,8 @@ Proyek ini menggunakan **Vite (JavaScript)** dengan format file **JSX**. Struktu
 └── 📜 README.md       # Dokumentasi proyek
 ```
 
+---
+
 ## 🛠 Teknologi yang Digunakan
 - **Vite** - Build tool untuk pengembangan cepat.
 - **React.js** - Library untuk membangun UI yang dinamis.
@@ -31,6 +37,9 @@ Proyek ini menggunakan **Vite (JavaScript)** dengan format file **JSX**. Struktu
 - **Framer Motion** - Animasi interaktif dan smooth.
 - **Lucide Icons** - Ikon modern untuk UI.
 - **ShadCN UI** - Komponen UI yang elegan.
+
+---
+
 
 ## 🚀 Cara Menjalankan Proyek
 
@@ -59,3 +68,6 @@ Buka `http://localhost:5173/` di browser untuk melihat hasilnya.
 
 💡 **Kontribusi**: Jika ingin berkontribusi dalam pengembangan proyek ini, silakan lakukan **fork** dan buat **pull request**! 😊
 
+---
+
+💡 Dibuat dengan ❤️ oleh [Muhammad Adistia Pratama]
